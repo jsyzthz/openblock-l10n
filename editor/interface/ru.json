@@ -1,5 +1,5 @@
 {
-    "gui.alerts.lostPeripheralConnection": "OpenBlock потерял соединение с {extensionName}.",
+    "gui.alerts.lostPeripheralConnection": "Stemstar потерял соединение с {extensionName}.",
     "gui.alerts.tryAgain": "Попробуй еще раз",
     "gui.alerts.download": "Скачать",
     "gui.connection.reconnect": "Переподключиться",
@@ -258,7 +258,7 @@
     "gui.updateModal.updateLater": "Обновить позже",
     "gui.updateModal.updateAndRestart": "Обновить и перезагрузить",
     "gui.updateModel.tileAlreadyLatest": "Обнаружена новая версия",
-    "gui.updateModel.alreadyLatestTips": "Установлена самая последняя версия Openblock",
+    "gui.updateModel.alreadyLatestTips": "Установлена самая последняя версия Stemstar",
     "gui.updateModel.tileError": "Операция не выполнена",
     "gui.updateModel.upgradingExternalResource": "Обновление внешнего ресурса",
     "gui.updateModal.deletingCompressedFile": "Удаление сжатого файла",
