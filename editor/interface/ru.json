@@ -547,6 +547,7 @@
     "gui.device.k210Maixduino.connectingMessage": "Подключение",
     "gui.device.raspberryPiPicoIconURL.description": "Мощная, гибкая плата микроконтроллера.",
     "gui.device.raspberryPiPicoIconURL.connectingMessage": "Подключение",
+    "gui.device.scratchstar.description": "Scratch star",
     "gui.extension.music.name": "Музыка",
     "gui.extension.music.description": "Играть на инструментах и барабанах.",
     "gui.extension.pen.name": "Перо",
