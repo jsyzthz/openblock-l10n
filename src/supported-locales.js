@@ -57,7 +57,7 @@ const locales = {
     // 'pt-br': {name: 'Português Brasileiro'},
     // 'rap': {name: 'Rapa Nui'},
     // 'ro': {name: 'Română'},
-    'ru': {name: 'Русский'},
+    // 'ru': {name: 'Русский'},
     // 'sr': {name: 'Српски'},
     // 'sk': {name: 'Slovenčina'},
     // 'sl': {name: 'Slovenščina'},
@@ -66,8 +66,9 @@ const locales = {
     // 'vi': {name: 'Tiếng Việt'},
     // 'tr': {name: 'Türkçe'},
     // 'uk': {name: 'Українська'},
-    'zh-cn': {name: '简体中文'},
-    'zh-tw': {name: '繁體中文'}
+    'zh-cn': {name: '简体中文'}
+    // ,
+    // 'zh-tw': {name: '繁體中文'}
 };
 
 const customLocales = {
